@@ -1,6 +1,6 @@
 # NewsAppSample
 
-This is a news app built using kotlin using latest jetpack components for learning purpose
+This is a news app built using kotlin and latest jetpack components for learning purpose
 **Components Used**
 MVVM Architecture
 ROOM DB
